@@ -1,0 +1,7 @@
+torch==2.5.1
+numpy==1.26.4
+matplotlib==3.10.0
+pandas
+transformers==4.46.2
+openai==1.82.0
+
